@@ -1,0 +1,28 @@
+{
+  "vega-agent": {
+    "url": "https://raw.githubusercontent.com/Ad-Astra-Computing/vega-agent/main/.github/assets/vega-logo-light.svg",
+    "mode": "contains",
+    "marker": "M50 2 L58 42 L98 50 L58 58 L50 98 L42 58 L2 50 L42 42 Z",
+    "note": "vega-agent publishes only the large gradient logo, not the favicon this copy came from. The star outline is the part both files share, so this watches the path data instead of the whole file."
+  },
+  "ink": {
+    "url": "https://ink.tulpa.network/favicon.svg",
+    "mode": "bytes"
+  },
+  "ahd": {
+    "url": "https://ahd.adastra.computer/favicon.svg",
+    "mode": "bytes"
+  },
+  "nixpkgs": {
+    "url": "https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake-colours.svg",
+    "mode": "bytes"
+  },
+  "aer": {
+    "url": "https://aer.adastra.computer/favicon.svg",
+    "mode": "bytes"
+  },
+  "folio": {
+    "mode": "unchecked",
+    "reason": "Folio has no public repo or site, so there is no source this workflow can reach. Copied by hand from assets/logo-small.svg, the variant drawn for sub-64px use. Re-copy it when Folio gets a public home, and give it a url here."
+  }
+}

@@ -32,7 +32,7 @@ different layer of the stack.
 | <img src="./assets/icons/ink.svg" width="20" alt=""> | **[ink](https://github.com/Ad-Astra-Computing/ink)** | An open protocol for signed agent-to-agent messages. The receiver verifies the envelope before it acts. |
 | <img src="./assets/icons/ahd.svg" width="20" alt=""> | **[ahd](https://github.com/Ad-Astra-Computing/ahd)** | Critiques of AI-generated design that anyone can re-run. Findings stay reproducible against a named, versioned rule set. |
 | <img src="./assets/icons/nixpkgs.svg" width="20" alt=""> | **[nixpkgs](https://github.com/Ad-Astra-Computing/nixpkgs)** | The working fork for Trace, our research on AI-assisted CVE remediation. Nothing here is submitted upstream. |
-| <img src="./assets/icons/receipts.svg" width="20" alt=""> | **[receipts](https://github.com/Ad-Astra-Computing/receipts)** | The open receipts format, signing scheme and public verifier. A finished piece carries a record of how it was made, and anyone can check it. |
+| <img src="./assets/icons/receipts.svg" width="20" alt=""> | **[receipts](https://github.com/Ad-Astra-Computing/receipts)** | The open format and verifier behind Folio, our writing app. A published piece of writing travels with a signed record of how it was written, down to which passages an AI wrote, and any reader can check it. |
 
 ### Also here
 

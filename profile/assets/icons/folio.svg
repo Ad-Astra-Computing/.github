@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Folio mark v4, small-size variant. Tighter margin (8 vs 16) and a
+  bolder F so the silhouette and arms still read at 16/24/32 px. The
+  body line is dropped at this size; it would blur into the middle arm.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Folio">
+  <title>Folio</title>
+  <path fill="#c9a86a"
+        d="M 8 8 H 248 V 192 L 192 248 H 8 Z" />
+  <path stroke="#a48a52" stroke-width="4" stroke-linecap="round"
+        d="M 192 248 L 248 192" />
+  <g fill="#08080c">
+    <rect x="40" y="52"  width="160" height="36" />
+    <rect x="40" y="52"  width="32"  height="160" />
+    <rect x="40" y="116" width="124" height="32" />
+  </g>
+</svg>

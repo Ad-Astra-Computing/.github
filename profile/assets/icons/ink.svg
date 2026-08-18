@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M16 2 L24 13 L24 21 L20 28 L18 28 L17 20 L16 17 L15 20 L14 28 L12 28 L8 21 L8 13 Z"
+        fill="currentColor" />
+  <circle cx="16" cy="10" r="2.25" fill="none" />
+  <style>
+    path { fill: #6d28d9; }
+    circle { fill: #fff; }
+    @media (prefers-color-scheme: dark) {
+      path { fill: #c4b5fd; }
+      circle { fill: #121220; }
+    }
+  </style>
+</svg>

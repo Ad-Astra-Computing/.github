@@ -17,10 +17,6 @@
     "url": "https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake-colours.svg",
     "mode": "bytes"
   },
-  "aer": {
-    "url": "https://aer.adastra.computer/favicon.svg",
-    "mode": "bytes"
-  },
   "folio": {
     "mode": "unchecked",
     "reason": "Folio has no public repo or site, so there is no source this workflow can reach. Copied by hand from assets/logo-small.svg, the variant drawn for sub-64px use. Re-copy it when Folio gets a public home, and give it a url here."

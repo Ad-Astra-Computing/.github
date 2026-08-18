@@ -26,12 +26,12 @@ different layer of the stack.
 
 ### Start here
 
-| | |
-|---|---|
-| **[vega-agent](https://github.com/Ad-Astra-Computing/vega-agent)** | A Nix binary cache you do not have to trust. Builds enter the shared tier only when independent rebuilders produce the same bytes, and every attestation lands in a public transparency log. |
-| **[ink](https://github.com/Ad-Astra-Computing/ink)** | An open protocol for signed agent-to-agent messages. The receiver verifies the envelope before it acts. |
-| **[ahd](https://github.com/Ad-Astra-Computing/ahd)** | Critiques of AI-generated design that anyone can re-run. Findings stay reproducible against a named, versioned rule set. |
-| **[nixpkgs](https://github.com/Ad-Astra-Computing/nixpkgs)** | The working fork for Trace, our research on AI-assisted CVE remediation. Nothing here is submitted upstream. |
+| | | |
+|---|---|---|
+| <img src="./assets/icons/vega-agent.svg" width="20" alt=""> | **[vega-agent](https://github.com/Ad-Astra-Computing/vega-agent)** | A Nix binary cache you do not have to trust. Builds enter the shared tier only when independent rebuilders produce the same bytes, and every attestation lands in a public transparency log. |
+| <img src="./assets/icons/ink.svg" width="20" alt=""> | **[ink](https://github.com/Ad-Astra-Computing/ink)** | An open protocol for signed agent-to-agent messages. The receiver verifies the envelope before it acts. |
+| <img src="./assets/icons/ahd.svg" width="20" alt=""> | **[ahd](https://github.com/Ad-Astra-Computing/ahd)** | Critiques of AI-generated design that anyone can re-run. Findings stay reproducible against a named, versioned rule set. |
+| <img src="./assets/icons/nixpkgs.svg" width="20" alt=""> | **[nixpkgs](https://github.com/Ad-Astra-Computing/nixpkgs)** | The working fork for Trace, our research on AI-assisted CVE remediation. Nothing here is submitted upstream. |
 
 ### Also here
 
@@ -41,3 +41,5 @@ the Vega-operated rebuilder. [adastra-claude-plugins](https://github.com/Ad-Astr
 slash commands for our public MCP server.
 
 <p align="center"><sub>per aspera ad astra</sub></p>
+
+<p align="center"><sub>Nix snowflake by Simon Frankau and Tim Cuthbertson, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</sub></p>
